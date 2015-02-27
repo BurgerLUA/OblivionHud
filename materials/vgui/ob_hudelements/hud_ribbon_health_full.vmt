@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/ob_hudelements/hud_ribbon_health_full"
+	"$translucent" 1
+	"$ignorez" "1"
+}

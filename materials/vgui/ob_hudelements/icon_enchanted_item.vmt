@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/ob_hudelements/icon_enchanted_item"
+	"$translucent" 1
+	"$ignorez" "1"
+}

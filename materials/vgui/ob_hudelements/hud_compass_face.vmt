@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/ob_hudelements/hud_compass_face"
+	"$translucent" 1
+	"$ignorez" "1"
+}

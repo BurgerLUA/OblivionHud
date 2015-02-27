@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/ob_hudelements/ribbon_slider"
+	"$translucent" 1
+	"$ignorez" "1"
+}
